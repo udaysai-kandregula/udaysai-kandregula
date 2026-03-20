@@ -29,16 +29,22 @@ I'm passionate about **transforming raw data into actionable insights** and **cr
 - **🌐 Interactive Web Apps** with modern JS frameworks
 - **💻 DSA Mastery** - 200+ LeetCode problems solved
 
--  
+
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  
-![Udaysai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaysai-kandregula&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=3DDC84&text_color=FFFFFF)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaysai-kandregula&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=3DDC84)
-  
+
+<!-- Overall Stats (includes total commits) -->
+<img src="https://github-readme-stats.vercel.app/api?username=udaysai-kandregula&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=3DDC84&text_color=FFFFFF&count_private=true" />
+
+<!-- Streak Stats (current + longest streak) -->
+<img src="https://streak-stats.demolab.com?user=udaysai-kandregula&theme=dark&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=FFFFFF" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysai-kandregula&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=3DDC84" />
+
 </div>
+
 
 ## 📫 **Let's Connect!**
 
@@ -57,7 +63,6 @@ I'm passionate about **transforming raw data into actionable insights** and **cr
 
 <div align="center">
   
-
 <!--![Snake animation](https://github.com/udaysai-kandregula/udaysai-kandregula/blob/output/github-contribution-grid-snake.svg) -->
   
 </div>
