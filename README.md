@@ -73,20 +73,22 @@ interests:  [Web Development, Data Analysis, Problem Solving]
 ## 📊 GitHub Stats
 
 <div align="center">
+  
+  <p align="center">
 
-<!--
-<table>
-  <tr>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=udaysai-kandregula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysai-kandregula&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-    </td> 
-  </tr>
-</table>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=udaysai-kandregula&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 
--->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=udaysai-kandregula&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+</p>
+
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysai-kandregula&theme=tokyo-night&hide_border=true&area=true&custom_title=Udaysai's%20Contribution%20Graph" width="95%"/>
 
 </div>
