@@ -87,8 +87,7 @@ interests:  [Web Development, Data Analysis, Problem Solving]
 </table>
 
 -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysai-kandregula&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysai-kandregula&theme=tokyo-night&hide_border=true&area=true&custom_title=Udaysai's%20Contribution%20Graph" width="95%"/>
 
 </div>
 
